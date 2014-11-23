@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GARA</Machine>
+    <WindowsUser>Kwer</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>20560AnishMaharjan.MatchPaireditionDota</PackageIdentityName>
+    <RegisteredManifestChecksum>7F10E939B5BFB408069D32207D7E685FBB7212FD22DAB1337B4CCB6AB7A6ED1E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>20560AnishMaharjan.MatchPaireditionDota_2.0.0.0_neutral__03qmz77jbd7ar</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>20560AnishMaharjan.MatchPaireditionDota_03qmz77jbd7ar!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>20560AnishMaharjan.MatchPaireditionDota</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D7122C5E-BE23-4F54-8BB6-B7307F9EBE58</RegisteredPackagePublisher>
+    <RegisteredVersion>2.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T12:56:09.663</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\bin\Debug\MemoryFoto.exe">
+      <PackagePath>MemoryFoto.exe</PackagePath>
+      <Modified>2014-11-22T13:42:23.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2014-11-05T07:29:33.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\10.jpg">
+      <PackagePath>Assets\10.jpg</PackagePath>
+      <Modified>2014-11-05T07:56:09.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2014-11-05T07:29:34.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2014-11-05T07:29:34.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+      <Modified>2014-11-05T07:29:34.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\5.jpg">
+      <PackagePath>Assets\5.jpg</PackagePath>
+      <Modified>2014-11-05T07:29:34.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\6.jpg">
+      <PackagePath>Assets\6.jpg</PackagePath>
+      <Modified>2014-11-05T07:56:09.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\7.jpg">
+      <PackagePath>Assets\7.jpg</PackagePath>
+      <Modified>2014-11-05T07:56:09.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\8.jpg">
+      <PackagePath>Assets\8.jpg</PackagePath>
+      <Modified>2014-11-05T07:56:09.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\9.jpg">
+      <PackagePath>Assets\9.jpg</PackagePath>
+      <Modified>2014-11-05T07:56:09.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\AXE DOTA 2.jpg">
+      <PackagePath>Assets\AXE DOTA 2.jpg</PackagePath>
+      <Modified>2014-11-07T06:40:21.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\bg.jpg">
+      <PackagePath>Assets\bg.jpg</PackagePath>
+      <Modified>2014-11-06T08:37:03.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\bg_bg.jpg">
+      <PackagePath>Assets\bg_bg.jpg</PackagePath>
+      <Modified>2014-11-06T08:23:18.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\dota TIle.jpg">
+      <PackagePath>Assets\dota TIle.jpg</PackagePath>
+      <Modified>2014-11-06T08:16:43.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\Traxex.jpg">
+      <PackagePath>Assets\Traxex.jpg</PackagePath>
+      <Modified>2014-11-07T04:55:00.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\about.png">
+      <PackagePath>Assets\about.png</PackagePath>
+      <Modified>2014-11-06T11:06:11.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\credits.png">
+      <PackagePath>Assets\credits.png</PackagePath>
+      <Modified>2014-11-06T11:06:11.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T04:52:13.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\new.png">
+      <PackagePath>Assets\new.png</PackagePath>
+      <Modified>2014-11-06T10:35:18.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\reset.png">
+      <PackagePath>Assets\reset.png</PackagePath>
+      <Modified>2014-11-06T10:41:52.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T04:52:53.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T04:51:35.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T04:52:35.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-06T02:36:18.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-22T13:35:00.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\bin\Debug\page1.xbf">
+      <PackagePath>page1.xbf</PackagePath>
+      <Modified>2014-11-06T15:18:14.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kwer\Documents\Visual Studio 2013\Projects\MemoryFoto\MemoryFoto\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-22T12:56:08.493</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

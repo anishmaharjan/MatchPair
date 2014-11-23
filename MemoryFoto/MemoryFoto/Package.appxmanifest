@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="20560AnishMaharjan.MatchPaireditionDota" Publisher="CN=D7122C5E-BE23-4F54-8BB6-B7307F9EBE58" Version="2.1.0.1" />
+  <Properties>
+    <DisplayName>Match Pair editionDota</DisplayName>
+    <PublisherDisplayName>AnishMaharjan</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MemoryFoto.App">
+      <m2:VisualElements DisplayName="Match Pair editionDota" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="Just a simple puzzle game played by selecting two random images to that pair up." ForegroundText="light" BackgroundColor="#000000">
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+</Package>

@@ -1,0 +1,99 @@
+﻿<Page
+    x:Class="MemoryFoto.page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MemoryFoto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/bg.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <AppBar Margin="0,676,0,0">
+            <StackPanel Orientation="Horizontal">
+                <Image x:ConnectionId='12' x:Name="newdeal" Margin="150,0,0,0" Height="59" Width="59" Source="Assets/new.png"                        />
+                <Image x:ConnectionId='13' x:Name="reset" Margin="50,0,0,0" Height="59" Width="59" Source="Assets/reset.png"                      />
+                <Image x:ConnectionId='14' x:Name="about" Margin="50,0,0,0" Height="59" Width="59" Source="Assets/about.png"                      />
+                <Image x:ConnectionId='15' x:Name="credits" Margin="50,0,0,0" Height="59" Width="59" Source="Assets/credits.png"                        />
+                
+            </StackPanel>
+        </AppBar>
+
+        <Image x:Name="_1" HorizontalAlignment="Left" Height="139" Margin="137,165,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_6" HorizontalAlignment="Left" Height="139" Margin="137,388,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_2" HorizontalAlignment="Left" Height="139" Margin="368,165,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_7" HorizontalAlignment="Left" Height="139" Margin="368,388,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_3" HorizontalAlignment="Left" Height="139" Margin="620,165,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_8" HorizontalAlignment="Left" Height="139" Margin="620,388,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_5" HorizontalAlignment="Left" Height="139" Margin="1082,165,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_10" HorizontalAlignment="Left" Height="139" Margin="1082,388,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_4" HorizontalAlignment="Left" Height="139" Margin="859,165,0,0" VerticalAlignment="Top" Width="140"/>
+        <Image x:Name="_9" HorizontalAlignment="Left" Height="139" Margin="859,388,0,0" VerticalAlignment="Top" Width="140"/>
+        <Rectangle x:ConnectionId='1' x:Name="aa" HorizontalAlignment="Left" Height="207" Stroke="White" VerticalAlignment="Top" Width="158" Margin="128,136,0,0"                  >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='2' x:Name="bb" HorizontalAlignment="Left" Height="207" Stroke="White" VerticalAlignment="Top" Width="159" Margin="360,136,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='3' x:Name="cc" HorizontalAlignment="Left" Height="207" Stroke="White" VerticalAlignment="Top" Width="158" Margin="608,136,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='4' x:Name="dd" HorizontalAlignment="Left" Height="207" Stroke="White" VerticalAlignment="Top" Width="159" Margin="846,136,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='5' x:Name="ee" HorizontalAlignment="Left" Height="207" Stroke="White" VerticalAlignment="Top" Width="158" Margin="1071,136,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='6' x:Name="ff" HorizontalAlignment="Left" Height="209" Stroke="White" VerticalAlignment="Top" Width="158" Margin="128,380,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='7' x:Name="gg" HorizontalAlignment="Left" Height="209" Stroke="White" VerticalAlignment="Top" Width="159" Margin="360,380,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='8' x:Name="hh" HorizontalAlignment="Left" Height="209" Stroke="White" VerticalAlignment="Top" Width="158" Margin="608,380,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='9' x:Name="ii" HorizontalAlignment="Left" Height="209" Stroke="White" VerticalAlignment="Top" Width="159" Margin="846,380,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:ConnectionId='10' x:Name="jj" HorizontalAlignment="Left" Height="209" Stroke="White" VerticalAlignment="Top" Width="158" Margin="1071,380,0,0"                   >
+            <Rectangle.Fill>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/dota TIle.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock HorizontalAlignment="Left" Height="62" Margin="857,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" FontFamily="Franklin Gothic Medium">
+        	<Run FontSize="44.75" Text="Score:"/>
+        </TextBlock>
+        <TextBlock x:Name="scoreblock" HorizontalAlignment="Left" Height="62" Margin="990,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" FontSize="44.75"/>
+        <Button x:ConnectionId='11' Content="EXIT" HorizontalAlignment="Left" Height="62" Margin="1180,55,0,0" VerticalAlignment="Top" Width="105" Background="#FFC90A0A"                       />
+        <Image HorizontalAlignment="Left" Height="83" Margin="40,382,0,0" VerticalAlignment="Top" Width="83"/>
+
+    </Grid>
+</Page>
+
